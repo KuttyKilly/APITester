@@ -1,0 +1,14 @@
+body{
+	text-align:center;
+	background-color:grey;
+}
+
+p{
+	color:aqua;
+	font-size:18px;
+}
+
+h1{
+	color:red;
+	font-style:italic;
+}
